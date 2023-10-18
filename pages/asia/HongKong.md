@@ -61,7 +61,6 @@ Adivicers：
 - **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: data analytics and artificial intelligence, cooperative intelligent transport systems, public transport operations, smart cities and mobility, urban transport analytics;
 - **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: spatial planning for pedestrian movement and evacuation modeling, urban and land use planning, building development, construction management and fire safety engineering;
 
-
 ### The Hong Kong University of Science and Technology
 
 Clear Water Bay, Hong Kong SAR, China
@@ -75,8 +74,7 @@ ADVIsors
 - **[Alexis K H LAU](https://www.envr.ust.hk/our-division/people/faculty-staff/envrhead.html)**: Geophysical data analysis, weather and climate, satellite remote sensing applications;
 - **[Dasa GU](https://www.envr.ust.hk/our-division/people/faculty-staff/dasagu.html)**: satellite remote sensing;
 - **[Changqing LIN](https://www.envr.ust.hk/our-division/people/faculty-staff/cqlin.html)**: lidar remote sensing, satellite remote sensing;
-
-
+- **[Hugo Wai Leung MAK](https://repository.hkust.edu.hk/ir/Search/Results?lookfor=Mak%2C+Hugo+Wai+Leung&type=Author)**: Remote Sensing; Environmental Image and Data Analytics; Satellite Informatics; Applied and Computational Mathematics; Data Assimilation and Machine Learning;
 
 ### The Chinese University of Hong Kong (CUHK)
 
@@ -119,6 +117,7 @@ Advisors：
 - **[LI Jing](https://www.grm.cuhk.edu.hk/en/profile/vjli/):** Housing Economics, Real Estate Economics, Urban Sustainability;
 - **[LU Xingcheng](https://www.grm.cuhk.edu.hk/en/profile/prof-lu-xingcheng/):** Air pollution modeling, Atmospheric chemistry, Machine learning;
 - **[MARAFA, Lawal M.](https://www.grm.cuhk.edu.hk/en/profile/lmmarafa/):** Agriculture and Food Security, Soils and Environment, SDGs and Resources Management, Tourism Ecotourism and Environment, Landscapes, Soundscapes and Tranquility;
+- **[Hugo Wai Leung MAK](https://www.math.cuhk.edu.hk/people/academic-staff/hwlmak)**: Remote Sensing; Environmental Image and Data Analytics; Satellite Informatics; Applied and Computational Mathematics; Data Assimilation and Machine Learning;
 
 ### The Hong Kong Polytechnic University (PolyU)
 
