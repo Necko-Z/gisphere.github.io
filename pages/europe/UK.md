@@ -206,8 +206,7 @@ Professors:
 - [Peter Atkinson](https://www.lancaster.ac.uk/lec/about-us/people/peter-atkinson): Spatial and space-time sampling effects, Disease transmission systems, especially vector-borne systems, global vegetation and land cover changes, natural hazard impacts and risks;
 - [Alan Blackburn](https://www.lancaster.ac.uk/lec/about-us/people/alan-blackburn): Remote sensing of plant responses to environmental stress, modelling the relationships between spatial properties and ecosystem processes, applying geospatial technologies across different environmental systems;
 - [Amber Leeson](https://www.lancaster.ac.uk/lec/about-us/people/amber-leeson): ice-climate interactions, Remote Sensing data, GIS and Data Science techniques;
-- [Duncan Whyatt](https://www.lancaster.ac.uk/lec/about-us/people/duncan-whyatt): GIS, coastal management, urban development, landscape ecology, renewable energy and mapping trends in social media;
-- [Zhang Ce](https://www.lancaster.ac.uk/lec/about-us/people/ce-zhang#phd-students): Artificial Intelligence and Machine Learning (Deep Learning), Geospatial Data Mining and Modelling (Geospatial Data Science), Landscape Pattern Analysis (Vector-based and Raster-based GIS), Remotely Sensed Image Analysis and their Applications.
+- [Duncan Whyatt](https://www.lancaster.ac.uk/lec/about-us/people/duncan-whyatt): GIS, coastal management, urban development, landscape ecology, renewable energy and mapping trends in social media.
 
 
 
@@ -279,8 +278,8 @@ Professors:
 - [Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/): migration, mobility, urban-rural development;
 - [Levi Wolf](https://research-information.bris.ac.uk/en/persons/levi-j-wolf): quantitative human geography;
 - [Sean Fox](https://www.turing.ac.uk/people/researchers/sean-fox): urban remote sensing, urban data science;
-- [Emmanouil Tranos](https://research-information.bris.ac.uk/en/persons/emmanouil-tranos): quantitative human geography.
-
+- [Emmanouil Tranos](https://research-information.bris.ac.uk/en/persons/emmanouil-tranos): quantitative human geography;
+- [Zhang Ce](https://research-information.bris.ac.uk/en/persons/ce-zhang): Artificial Intelligence and Machine Learning (Deep Learning), Geospatial Data Mining and Modelling (Geospatial Data Science), Landscape Pattern Analysis (Vector-based and Raster-based GIS), Remotely Sensed Image Analysis and their Applications.
 
 ### University of Warwick
 
