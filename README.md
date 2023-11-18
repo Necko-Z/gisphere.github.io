@@ -1,4 +1,12 @@
 # GISphere Guide
+
+
+**(updated at Nov. 2023)**
+
+!!! This site has been moved to [gisphere.info/school](https://gisphere.info/school) !!!
+
+Please visit the new address for the latest information. The content of this page is no longer maintained.
+
 **(updated at May 2022)**
 
 English Version: [gisphere.github.io](https://gisphere.github.io/)
