@@ -233,7 +233,7 @@ Professors:
 - **[Eugenio Arima](https://liberalarts.utexas.edu/geography/faculty/ea9267)**: human-environment interactions, land change science, GIS/science, applied quantitative methods, Latin America;
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots remote sensing, Land change science, & healthy socio-ecological systems in developing states;
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, movement pattern analysis, spatial statistics, biogeography;
-- **[Tony Grubesic](https://www.ischool.utexas.edu/people/people-details?PersonID=384)** (信息学院): GIS, urban informatics, sustainability, hazards;
+- **[Tony Grubesic](https://www.ischool.utexas.edu/people/people-details?PersonID=384)**: GIS, urban informatics, sustainability, hazards;
 - **[Paul C. Adams](https://liberalarts.utexas.edu/geography/faculty/adamspc3)**: Geographical Communications, Place Images in the Media, Disentangling from Digital Media, Geopolitical Discourses, Formation of Subjectivity;
 - **[Timothy Beach](https://liberalarts.utexas.edu/geography/faculty/tb7938)**: Geoarchaeology, Soils, Climate History, Geomorphology, and Paleoenvironments of the Maya World and Mediterranean;
 - **[Sheryl Luzzadder-Beach](https://liberalarts.utexas.edu/geography/faculty/sl36545)**: Geoarchaeology; Hydrology and Water Quality; Geomorphology; Spatial Statistics; Gender, Science, and Human Rights; Mesoamerica; Mediterranean and Near East; Peru; Iceland.;
