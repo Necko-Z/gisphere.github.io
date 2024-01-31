@@ -233,8 +233,18 @@ Professors:
 - **[Eugenio Arima](https://liberalarts.utexas.edu/geography/faculty/ea9267)**: human-environment interactions, land change science, GIS/science, applied quantitative methods, Latin America;
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots remote sensing, Land change science, & healthy socio-ecological systems in developing states;
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, movement pattern analysis, spatial statistics, biogeography;
-- **[Tony Grubesic](https://www.ischool.utexas.edu/people/people-details?PersonID=384)** (信息学院): GIS, urban informatics, sustainability, hazards.
-
+- **[Tony Grubesic](https://www.ischool.utexas.edu/people/people-details?PersonID=384)** (信息学院): GIS, urban informatics, sustainability, hazards;
+- **[Paul C. Adams](https://liberalarts.utexas.edu/geography/faculty/adamspc3)**: Geographical Communications, Place Images in the Media, Disentangling from Digital Media, Geopolitical Discourses, Formation of Subjectivity;
+- **[Timothy Beach](https://liberalarts.utexas.edu/geography/faculty/tb7938)**: Geoarchaeology, Soils, Climate History, Geomorphology, and Paleoenvironments of the Maya World and Mediterranean;
+- **[Sheryl Luzzadder-Beach](https://liberalarts.utexas.edu/geography/faculty/sl36545)**: Geoarchaeology; Hydrology and Water Quality; Geomorphology; Spatial Statistics; Gender, Science, and Human Rights; Mesoamerica; Mediterranean and Near East; Peru; Iceland.;
+- **[Rebecca M. Torres](https://liberalarts.utexas.edu/geography/faculty/rt7296)**: (Im)migration, Children/Youth Geographies, Gender, Feminist Geography, Activist/Engaged Scholarship, Mexico, Latin America;
+- **[Mark Budolfson](https://liberalarts.utexas.edu/geography/faculty/mbb2926)**: Ethics, Philosophy, Politics, and Economics (PPE), Public Policy, Health, Environment;
+- **[Caroline Faria](https://liberalarts.utexas.edu/geography/faculty/cf24879)**: Feminist political and economic geographies; feminist methodologies; Africa and the African diaspora;
+- **[Carlos E. Ramos Scharrón](https://liberalarts.utexas.edu/geography/faculty/cer577)**: Hydro-geomorphology; terrestrial carbon and sediment budgets; watershed analyses; land use change;
+- **[Brenda Boonabaana](https://liberalarts.utexas.edu/geography/faculty/bb42452)**: Sustainable Development; Conservation and Development; Sustainable Tourism; Environmental Justice and Equity; Climate Change Adaptation and Resilience; Gender, Climate Change and Agriculture/Food Security; Women and Girls' Empowerment; Feminist Geography; Development Geography; Cultural Geography; Globalisation; Urban Development & Transformations; Africa;
+- **[Thomas Garrison](https://liberalarts.utexas.edu/geography/faculty/tg8227)**: Maya archaeology; remote sensing; lidar; GIS; Mesoamerica;
+- **[Laurel Mei-Singh](https://liberalarts.utexas.edu/geography/faculty/lm46266)**: Environmental justice, carceral geographies and abolition, militarization, racial capitalism, Asian American Studies, and the Indigenous Pacific;
+- **[Amy Thompson](https://liberalarts.utexas.edu/geography/faculty/at26634)**: Human-environment interactions, social inequality, processes of low-density urban development, settlement patterns, household archaeology, community-based archaeology, neighborhood analyses, GIS, lidar, remote sensing, Classic Maya, Mesoamerica.
 
 ### University of Texas at Dallas
 
