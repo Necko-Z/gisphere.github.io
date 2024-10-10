@@ -1,5 +1,33 @@
 ## Australia
 
+### RMIT University
+
+Melbourne, Victoria, Australia
+
+Unit: [School of Science](https://www.rmit.edu.au/about/schools-colleges/science)
+
+RMIT University is located in the central business district of Melbourne, Australia. Within RMIT, the Geospatial Sciences department is housed within the School of Science and the Science, Technology, Engineering and Mathematics (STEM) College. Two graduate programs in geospatial sciences are offered, which provide a focus on GIS: a [Master of Geospatial Science](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-geospatial-science-mc265), which is a two-year degree, and a [Graduate Certificate in Geospatial Science](https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/graduate-certificates/graduate-certificate-in-geospatial-science-gc187), which can be completed in one year.
+
+Professors:
+Dr Suelynn Choy - Associate Professor
+Professor Allison Kealy - Professor
+Dr Amy Griffin - Senior Lecturer
+Dr Gang-Jun Liu - Senior Lecturer
+Dr Karin Reinke - Associate Professor
+Dr Lucas Holden - Lecturer
+Dr Mariela Soto-Berelov - Lecturer
+Dr Qian (Chayn) Sun - Lecturer
+Dr Safoora Zaminpardaz - Lecturer of Geospatial Science
+Simon Fuller - Surveying Specialist
+Professor Simon Jones - Professor
+
+- **[Monica Wachowicz]([https://www.utas.edu.au/profiles/staff/geography-spatial/matt-king](https://www.rmit.edu.au/content/rmit-ui/en/contact/staff-contacts/academic-staff/w/wachowicz-professor-monica.html))**: Data Science, AI, Geospatial Data;
+- **[Simon Jones]([https://www.utas.edu.au/profiles/staff/geography-spatial/arko-lucieer](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/j/jones-professor-simon))**: Remote sensing, Ground verification (in situ observations), Spatial analysis, Spatial data uncertainty, Land-cover mapping, Monitoring and modelling;
+- **[Suelynn Choy](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/c/choy-suelynn)**: GNSS precise positioning and navigation, Satellite remote sensing of atmospheric environment for meteorological and climate studies, GNSS applications and methods;
+- **[Gang-Jun Liu](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/l/liu-dr-gang-jun)**: GIS;
+- **[Amy Griffin](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/g/griffin-dr-amy)**: Cartography, Interactive mapping, UX, Reasoning with uncertainty, Spatial information systems, Historical GIS, Time geography, Health geography
+- **[Simon Fuller](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/f/fuller-mr-simon)**: Surveying, GNSS, Satellite positioning
+
 ### University of Tasmania
 
 Hobart, Tasmania, Australia
